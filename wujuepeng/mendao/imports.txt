@@ -1,0 +1,6 @@
+SMTP server : smtp.qq.com
+
+
+使用SMTP认证
+pop3/smtp:wvhlbbkharlybdjh
+imap/smtp:yifyxraulhesbdgd
